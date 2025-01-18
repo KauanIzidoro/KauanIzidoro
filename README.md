@@ -19,7 +19,7 @@
         <br>
     </samp>
     <br>
-    <img src="https://raw.githubusercontent.com/KauanIzidoro/KauanIzidoro/main/assets/RRsS.gif" alt="ASCII animation">
+    <img src="https://raw.githubusercontent.com/KauanIzidoro/KauanIzidoro/main/assets/earth.gif" alt="ASCII animation">
 </div>
 
 <br>
