@@ -1,16 +1,34 @@
-## Hi there 👋
+# <samp>Hi there</samp> 👋
 
-<!--
-**KauanIzidoro/KauanIzidoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <samp>I'm a <strong>back-end developer</strong> and I'm currently in my second year of <strong>systems analysis and development</strong>.</samp>
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <samp>Some languages and technologies I've been focusing on lately:</samp>
+</p>
+
+<div align="center">
+    <samp>
+        <strong>
+            &bull; C++ &bull; PYTHON &bull; C# &bull; JAVASCRIPT &bull; TYPESCRIPT
+            &bull; NODE.JS &bull; NEST.JS &bull; SQL &bull; NOSQL &bull;
+        </strong>
+        <br>
+    </samp>
+    <br>
+    <img src="https://raw.githubusercontent.com/KauanIzidoro/KauanIzidoro/main/assets/RRsS.gif" alt="ASCII animation">
+</div>
+
+<br>
+
+
+<br>
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-Gmail-darkorange?style=flat-square&logo=gmail&logoColor=white)](mailto:cnttkauan@gmail.com)
+
+</div>
