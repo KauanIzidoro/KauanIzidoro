@@ -22,11 +22,6 @@
     <img src="https://raw.githubusercontent.com/KauanIzidoro/KauanIzidoro/main/assets/earth.gif" alt="ASCII animation">
 </div>
 
-<br>
-
-
-<br>
-
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/-Gmail-darkorange?style=flat-square&logo=gmail&logoColor=white)](mailto:cnttkauan@gmail.com)
