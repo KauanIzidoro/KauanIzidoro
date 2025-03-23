@@ -1,25 +1,24 @@
 # <samp>Hi there</samp> 👋
 
 <p align="center">
-    <samp>I'm a <strong>back-end developer</strong> and I'm currently in my second year of <strong>systems analysis and development</strong>.</samp>
+    <samp><strong></strong>I am currently a backend developer, I am interested in distributed systems and software engineering</strong>.</samp>
 </p>
-
 <br>
 
-<p align="center">
+<!-- <p align="center">
     <samp>Some languages and technologies I've been focusing on lately:</samp>
-</p>
+</p> -->
 
 <div align="center">
-    <samp>
+    <!-- <samp>
         <strong>
-            &bull; C++ &bull; PYTHON &bull; C# &bull; JAVASCRIPT &bull; TYPESCRIPT
+            &bull; C &bull; C++ &bull; C# &bull; JAVA &bull; JAVASCRIPT &bull; TYPESCRIPT &bull; PYTHON
             &bull; NODE.JS &bull; NEST.JS &bull; SQL &bull; NOSQL &bull;
         </strong>
         <br>
     </samp>
-    <br>
-<!--     <img src="https://raw.githubusercontent.com/KauanIzidoro/KauanIzidoro/main/assets/earth.gif" alt="ASCII animation"> -->
+    <br> -->
+    <img src="https://raw.githubusercontent.com/KauanIzidoro/KauanIzidoro/main/assets/RRsS.gif" alt="ASCII animation">
 </div>
 
 <div align="center">
