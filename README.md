@@ -1,4 +1,4 @@
-# <samp>Hi there</samp> 👋
+# <samp>Hi there</samp>
 
 <p align="center">
     <samp><strong></strong>I am currently a backend developer, I am interested in distributed systems and software engineering</strong>.</samp>
@@ -18,8 +18,8 @@
         <br>
     </samp>
     <br> -->
-    <img src="https://raw.githubusercontent.com/KauanIzidoro/KauanIzidoro/main/assets/RRsS.gif" alt="ASCII animation">
-</div>
+    <!--<img src="https://raw.githubusercontent.com/KauanIzidoro/KauanIzidoro/main/assets/RRsS.gif" alt="ASCII animation">
+</div>-->
 
 <div align="center">
 
